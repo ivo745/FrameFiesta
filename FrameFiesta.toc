@@ -1,0 +1,10 @@
+## Interface: 80100
+## Version: 1.00
+## Title: |cffDA2820FrameFiesta|r
+## Author: MightBeGiant
+## Notes:
+## SavedVariables: FrameFiestaDB
+## OptionalDeps: Ace3, AceGUI-3.0-SharedMediaWidgets, LibSharedMedia-3.0, LibWindow-1.1, LibDualSpec-1.0
+
+embeds.xml
+FrameFiesta.lua
